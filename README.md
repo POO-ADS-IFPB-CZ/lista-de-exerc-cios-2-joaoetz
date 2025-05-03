@@ -2,7 +2,7 @@
 
 # Questão 1:
 
-### OÉ boa prática usar getters e setters porque eles permitem controlar o acesso aos atributos de uma classe. Quando os atributos são públicos, qualquer parte do código pode modificá-los livremente, o que pode causar erros ou dados inválidos. Com setters, podemos aplicar regras antes de alterar um valor, garantindo que os dados do objeto fiquem sempre corretos.
+### É boa prática usar getters e setters porque eles permitem controlar o acesso aos atributos de uma classe. Quando os atributos são públicos, qualquer parte do código pode modificá-los livremente, o que pode causar erros ou dados inválidos. Com setters, podemos aplicar regras antes de alterar um valor, garantindo que os dados do objeto fiquem sempre corretos.
 
 # Questão 2:
 
